@@ -1,0 +1,7 @@
+# data/
+
+This folder contains the datasets used in the Walmart Sales Analytics project.
+
+- **WalmartSalesData_Raw.csv**: The original raw dataset exported directly from the source. No processing or transformation has been applied.
+
+- **processed_walmart_sales_data.csv**: The cleaned and transformed dataset used for SQL analysis and Tableau visualisation. Includes added fields such as Revenue, Time of Day, etc.
